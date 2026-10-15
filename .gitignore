@@ -1,0 +1,8 @@
+finished videos/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.MP4
+*.mov
+*.MOV
