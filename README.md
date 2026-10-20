@@ -19,9 +19,9 @@ back and just want the pauses gone.
 ## Install
 
 ```bash
-git clone https://github.com/carrot1445/tight-cut-skill
-cp -r tight-cut-skill/tight-cut ~/.claude/skills/        # personal skill, every project
-# or: cp -r tight-cut-skill/tight-cut <your-project>/.claude/skills/
+git clone https://github.com/carrot1445/Deadspace-Remover-for-Tiktok-instagram-reels
+cp -r Deadspace-Remover-for-Tiktok-instagram-reels/tight-cut ~/.claude/skills/        # personal skill, every project
+# or: cp -r Deadspace-Remover-for-Tiktok-instagram-reels/tight-cut <your-project>/.claude/skills/
 
 pip install -r ~/.claude/skills/tight-cut/requirements.txt
 ```
